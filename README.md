@@ -14,7 +14,7 @@ This is the final project that I did for Database Programming at Pace University
 3. Wrote queries for creating database, inserting values from csv file to the respective tables.
 4. Created Stored Procedures in order to reduce the time complexity.
 
-#Implementation
+## Implementation
 1. Use "Table data import wizard" and store the data in "Adults.csv" file in a dummy table.  
 2. Use Create_table in order to create all the necessary tables.  
 3. Use Table_Insert.sql in order to insert data from the dummy table where data  from 'Adults.csv' is stored.  
