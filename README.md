@@ -20,4 +20,4 @@ This is the final project that I did for Database Programming at Pace University
 3. Use Table_Insert.sql in order to insert data from the dummy table where data  from 'Adults.csv' is stored.  
 4. Now the database is ready for use and you can perform any queries that you want to. Some of the example queries are in "StoredProcedures" folder.    
 
-## If there are any errors you can contact me on Linkedin.
+## If there are any errors you can contact me on Linkedin [LinkedIn] (https://www.linkedin.com/in/adityadave81/).
